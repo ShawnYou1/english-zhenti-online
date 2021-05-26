@@ -5,7 +5,9 @@
 zhenti.burningvocabulary.com
 
 ### archive地址
-[archive.org](https://web.archive.org/web/20210526061844/https://zhenti.burningvocabulary.com/)
+[首页](https://web.archive.org/web/20210526061844/https://zhenti.burningvocabulary.com/)  
+[真题列表](https://web.archive.org/web/20210526062027/https://zhenti.burningvocabulary.com/kaoyan)  
+[真题展示页面](https://web.archive.org/web/20210526062347/https://zhenti.burningvocabulary.com/cet6/2020-12/02)  
 
 ### 版权所有
 burningvocabulary.com 
